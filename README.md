@@ -9,7 +9,7 @@ StreamFlix is a platform where users can browse, search, and favorite movies. It
 
 ## Demo
 Check out the live demo of **StreamFlix** here:  
-[StreamFlix Demo]((https://drive.google.com/file/d/1oT33Gp9H0yEQEXcYW-dQ5HBICwHjoW5g/view?usp=sharing))
+[StreamFlix Demo](https://drive.google.com/file/d/1oT33Gp9H0yEQEXcYW-dQ5HBICwHjoW5g/view?usp=sharing)
 
 ## Installation
 To install **StreamFlix** on your local machine, follow these steps:
