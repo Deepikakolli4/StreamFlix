@@ -26,6 +26,8 @@ To install **StreamFlix** on your local machine, follow these steps:
 6. Start the development server:
 7.   ```bash
     npm start
+
+    
 Now you should be able to access StreamFlix in your browser at http://localhost:3000.
 
 ## Usage
