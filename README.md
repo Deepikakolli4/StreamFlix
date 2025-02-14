@@ -24,7 +24,7 @@ To install **StreamFlix** on your local machine, follow these steps:
 5.   ```bash
      npm install
 6. Start the development server:
-7.   ```bash
+     ```bash
     npm start
 
     
