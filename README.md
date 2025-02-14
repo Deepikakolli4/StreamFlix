@@ -39,7 +39,8 @@ Favorite Movies: Click on the heart icon next to a movie to mark it as your favo
 Contributing
 We welcome contributions! To get started:
 
-Fork the repository.
+## Fork the repository.
+ ```bash
 Create a new branch (git checkout -b feature-branch).
 Make your changes and commit them (git commit -am 'Add new feature').
 Push to your fork (git push origin feature-branch).
