@@ -18,11 +18,14 @@ To install **StreamFlix** on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/streamflix.git
 2. Navigate to the project folder:
-     ```cd streamflix
-3. Install the dependencies:
-     ```npm install
-4. Start the development server:
-    ```npm start
+3.   ```bash
+     cd streamflix
+4. Install the dependencies:
+5.   ```bash
+     npm install
+6. Start the development server:
+7.   ```bash
+    npm start
 Now you should be able to access StreamFlix in your browser at http://localhost:3000.
 
 ## Usage
